@@ -92,6 +92,7 @@ nav a:hover {
     max-width: 600px;
     text-align: center;
     margin: auto;
+    
 }
 
 .game-info h2 {
@@ -108,17 +109,16 @@ nav a:hover {
 .game-info p {
     font-size: 24px;
     margin-bottom: 20px;
+    
 }
 
 /* 🔥 BOTÃO AGORA CORRETO (ABAIXO DAS INFOS) */
-.buy-area {
-    margin-top: -150px;
-    padding-left: 60.9%;
-    /* alinha com conteúdo */
+.buy-area {  
+    margin: auto;
 }
 
 /* BOTÃO */
-.buy-button {
+.button {
     padding: 24px 80px;
     font-size: 26px;
     font-weight: bold;
@@ -159,7 +159,7 @@ footer h3 {
 
 footer p {
     font-size: 24px;
-    color: #cbd5f5;
+    color: #ffffff;
     transition: 0.3s;
 }
 
